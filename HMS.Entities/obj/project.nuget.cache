@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0YST7Mi+i3wAtkhfHmeaBYYBk3ua16GFHVO4dOlufQ3BrAx/r8MqwepTRrQiHKp4RBGdDhg3It6ntVXsG+Zd5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geeth\\source\\repos\\HotelManagementSystem\\HMS.Entities\\HMS.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geeth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\geeth\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
